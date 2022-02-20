@@ -16,3 +16,7 @@ A much simpler solution was to store the answer variable after bum1 and num2 whe
 //when  user clicks an operator, the first number is stored and displayed
 //when user clicks number it adds on top of the other number to create a new number creating secondNum
 //when user clicks equals it operates and updates display value (calculate)
+
+//bugs to fix
+1. Click operator first, then click number, then operator, then number (i.e *, 3, + ,2). This will not accept the new operaotr and show 32.
+2. Operational precendence 
