@@ -20,3 +20,6 @@ A much simpler solution was to store the answer variable after bum1 and num2 whe
 //bugs to fix
 1. Click operator first, then click number, then operator, then number (i.e *, 3, + ,2). This will not accept the new operaotr and show 32.
 2. Operational precendence 
+
+**Completed**
+https://infallible-torvalds-549959.netlify.app/
